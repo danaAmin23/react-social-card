@@ -1,0 +1,19 @@
+.ui.button{
+    background:none;
+}
+
+.ui.basic.label{
+    border:  none;
+}
+
+.heart.icon,.ui.basic.label.ht{
+    color: red;
+}
+
+.retweet.icon,.ui.basic.label.rt{
+    color: green;
+}
+
+Post{
+border: 1px solid grey;
+}

@@ -1,0 +1,25 @@
+.content{
+  border: 1px solid grey;  
+}
+
+.content-content{
+    padding-bottom: 1pc;
+}
+
+.content-img{
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+
+h3,p,a{
+    font-family: 'Mansalva', cursive;
+    margin-left: 1pc;
+
+}
+h3{
+    padding-top:1pc;
+}
+
+a{
+    padding-bottom:1pc;
+}
